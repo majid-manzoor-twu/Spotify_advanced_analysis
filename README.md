@@ -1,4 +1,5 @@
-# Spotify Advanced SQL Project
+# Spotify Advanced SQL Project![spotify_logo](https://github.com/user-attachments/assets/866dd360-c2a2-4fda-afd5-eae9c459bbf5)
+
 Project Category: Advanced
 [Click Here to get Dataset](https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
 
